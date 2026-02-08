@@ -23,7 +23,7 @@ Modern ve responsive bir restoran web sitesi tasarımı.
 ---
 
 ## 📷 Ekran Görüntüsü
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/Ekran görüntüsü-01.png)
 
 ---
 
